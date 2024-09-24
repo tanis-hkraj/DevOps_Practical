@@ -8,9 +8,9 @@ int sub(int a,int b){
 
 int main(){
 
-    add(4,3);
-    sub(4,3);
-    
+    printf("%d\n",add(4,3));
+    printf("%d\n",sub(4,3));
+    printf("%d\n",mul(5,6));
 
 
     return 0;
